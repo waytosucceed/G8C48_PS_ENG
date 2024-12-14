@@ -1,0 +1,232 @@
+{
+  "heading": "Identifying Claim and their Strongest Evidence ",
+  "topics": [
+    {
+      "heading": "Identifying Claim and their Strongest Evidence ",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "<b>Claim:</b> \"Pet ownership has mental health benefits.\" <br><b>Supporting Statement:</b> \"I always feel less anxious when I play with my dog.\"<br> Which type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence",
+            "Strongest Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "<b>Claim:</b> \"Meditation can reduce anxiety.\" <br><b>Supporting Statement:</b> \"Many of my friends say they feel less anxious after meditating.\"<br> Which type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Strongest Evidence",
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "<b>Claim:</b> \"Smoking can lead to lung cancer.\" <br><b>Supporting Statement:</b> \"The American Cancer Society reports that smoking is responsible for nearly 85% of lung cancer cases.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "All of the above"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "<b>Claim:</b> \"Reading regularly can improve vocabulary.\" <br><b>Supporting Statement:</b> \"Studies show that people who read daily have a broader vocabulary.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "All of the above"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "<b>Claim:</b> \"Taking vitamin supplements boosts immunity.\" <br><b>Supporting Statement:</b> \"Some people report feeling healthier and getting sick less often after taking vitamins.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "All of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "<b>Identify the evidence that best supports the claim:</b> \"Eating a balanced diet improves overall health.\"",
+          "options": [
+            "\"Fruits and vegetables taste good.\"",
+            "\"Studies show that people who eat a balanced diet are less likely to develop chronic diseases.\"",
+            "\"My friend eats junk food and still feels healthy.\"",
+            "\"It’s hard to find time to cook healthy meals.\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "<b>Claim:</b> \"Yoga reduces stress levels.\" <br><b>Supporting Statement:</b> \"Many yoga practitioners claim they feel calmer and less stressed after a session.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "<b>Identify the evidence that best supports the claim:</b> \"Recycling helps reduce pollution.\"",
+          "options": [
+            "\"Recycling bins are often colourful and easy to find.\"",
+            "\"Reports show recycling plastic reduces the need for new materials, cutting pollution levels by 30%.\"",
+            "\"Some people think recycling takes too much time.\"",
+            "\"My neighbor doesn’t recycle but still keeps their yard clean.\""
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "<b>Claim:</b> \"Regular handwashing reduces illness transmission.\" <br><b>Supporting Statement:</b> \"A study conducted by the CDC found that frequent handwashing reduces the spread of contagious diseases by 50%.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "<b>Claim:</b> \"Eating organic food is better for your health.\" <br><b>Supporting Statement:</b> \"Research comparing organic and conventional food consumption suggests small benefits to choosing organic.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 11,
+          "question": "<b>Identify the evidence that best supports the claim:</b> \"Exercise improves mental health.\"",
+          "options": [
+            "\"People enjoy listening to music while exercising.\"",
+            "\"Some people think exercising is boring.\"",
+            "\"Research shows that regular exercise reduces stress and anxiety levels by 40%.\"",
+            "\"My cousin exercises every day and likes it.\""
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "<b>Claim:</b> \"Learning a second language improves cognitive abilities.\" <br><b>Supporting Statement:</b> \"Some studies suggest that bilingual people perform better in problem-solving tasks and memory tests.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "<b>Claim:</b> \"Eating processed foods increases the risk of diabetes.\" <br><b>Supporting Statement:</b> \"Many people believe that a diet high in processed foods can cause health problems over time.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "<b>Claim:</b> \"Playing video games can improve cognitive skills.\" <br><b>Supporting Statement:</b> \"Research by the University of California found that video game players performed better on tasks requiring quick decision-making and problem-solving.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "<b>Claim:</b> \"Consuming too much caffeine can lead to insomnia.\" <br><b>Supporting Statement:</b> \"Some people have reported trouble sleeping after drinking caffeinated beverages in the evening.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 16,
+          "question": "<b>Claim:</b> \"Eating too much sugar increases the risk of obesity.\" <br><b>Supporting Statement:</b> \"A study from the American Heart Association found that high sugar intake leads to higher body fat and obesity risk.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker",
+            "Stronger",
+            "Strongest",
+            "None of the above"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "<b>Claim:</b> \"Exercising outdoors boosts mood.\" <br><b>Supporting Statement:</b> \"Many people report feeling happier and more energized after exercising in natural settings like parks or beaches.\"<br> Which type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence",
+            "Strongest Evidence",
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "<b>Claim:</b> \"Listening to music can reduce anxiety.\" <br><b>Supporting Statement:</b> \"Studies indicate that listening to calming music can lower heart rates and help individuals feel more relaxed.\"<br> Which type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence",
+            "Strongest Evidence",
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "<b>Claim:</b> \"Reading books regularly improves vocabulary.\" <br><b>Supporting Statement:</b> \"Research conducted by the National Literacy Trust found that individuals who read more often tend to have a broader vocabulary.\"<br> The type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence",
+            "Strongest Evidence",
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "<b>Claim:</b> \"Drinking green tea boosts metabolism.\" <br><b>Supporting Statement:</b> \"Some individuals report feeling more energized and having an increased metabolism after drinking green tea regularly.\"<br> Which type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence",
+            "Strongest Evidence",
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        }
+      ]
+      
+       
+    }
+  ]
+}
